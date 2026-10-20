@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 🤝 Authors
 
--   Peela Tulasi Jahnavi
+-   Sarada Reddy Karumuru
 
 ---
 **Note:** This project serves as a proof of concept and a foundational step for building smart, adaptive disaster evacuation solutions.Future work could include live data integration, mobile application development, and predictive modeling.
